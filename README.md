@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working at Trademarkia
+- 🌱 I’m currently learning Compiler Design
+- 💬 Ask me about Game Design
+- 📫 How to reach me: sankhayan@trademarkia.com
 <!--
 **SankhayanB/SankhayanB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
